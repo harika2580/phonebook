@@ -1,0 +1,108 @@
+body {
+  background-color: #f1ede9;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.header{
+ 
+ border: 2px solid black;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  border-radius: 6px;
+}
+
+.header a {
+  color: black;
+  text-decoration: none;
+  
+}
+.input_area.col-md-12  button {
+  background: whitesmoke;
+  color: black;
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: bold;
+  margin: 15px 0;
+  padding: 6px 12px;
+  
+}
+.input_area.col-md-12  button:hover {
+ 
+  color: rgb(128, 89, 89);
+}
+[type="reset"], [type="submit"], button, html [type="button"] {
+  background: #ffffff;
+ 
+  color: teal;
+  cursor: pointer;
+  margin-right: 6px;
+  padding: 10px 0;
+}
+[type="reset"]:hover , [type="submit"]:hover , button:hover , html [type="button"]:hover {
+   
+  color: black;
+}
+
+.input_area.col-md-12 {
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+tbody {
+  background: #ffffff;
+  border: 2px solid greenyellow;
+  
+  
+}
+.success {
+  background: rgb(238, 240, 148);
+  border: 2px solid green;
+}
+
+.footer {
+  border-radius: 6px;
+ border: 2px solid black;
+  color: rgb(42, 198, 245);
+  margin-bottom: 15px;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+.row {
+  padding: 0;
+}
+.row1{
+  padding: 0;
+}
+
+.btn {
+  line-height: 0.75;
+}
+input {
+    margin: 5px;
+    padding: 5px;
+  border: 1px dashed teal;
+  border-radius: 5px;
+}
+
+
+.head_page{
+    margin-bottom: 15px;
+  margin-top: 10px;
+}
+.head_page h2 {
+  font-weight: 800;
+  margin: 22px 0;
+  
+}
+
+.submit-data {
+  margin: 12px 0;
+}
+
+.bg-danger{
+  padding: 10px;
+}
